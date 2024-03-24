@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*Olááááá Muuuundo!*
+*Olááááá Muuuundo!*<br>
 Eu me chamo Erika :blush:

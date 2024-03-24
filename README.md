@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
  *Olááááá Muuuundo!*<br>
 <br>
-![Gatinho](imagens/gatinho.jpeg)
+![Gatinho](imagens/gatinho2.jpeg)
 
 **Sobre mim**😊 <br>
 <br>

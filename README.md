@@ -37,14 +37,15 @@ Agosto de 2023 - Presente<br>
 <br>
 **Meus objetivos 🐾 **<br>
 <br>
-1. Me formar
-2. Estagiar na área
-3. Fazer alguma especialização
+1. Estagiar na área<br>
+2. Me formar<br>
+3. Fazer alguma especialização<br>
 4. Inglês
 <br>
 <br>
 **Informações de Contato** 📨 <br>
-- Email: erikachermack1995@gmail.com
-- Telefone:(48) 9 9175-0346
-- Florianópolis, SC
+<br>
+- Email: erikachermack1995@gmail.com<br>
+- Telefone:(48) 9 9175-0346<br>
+- Florianópolis, SC<br>
 - Linkedin: www.linkedin.com/in/erika-chermack

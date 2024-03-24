@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*Olááááá Muuuundo!*<br>
+ *Olááááá Muuuundo!*<br>
 <br>
+![Gatinho](imagens/gatinho.jpeg)
+
 **Sobre mim**😊 <br>
 <br>
 Eu me chamo Erika! <br>

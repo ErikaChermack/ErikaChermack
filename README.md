@@ -25,27 +25,32 @@ Gosto de pensar em soluções que sejam tanto funcionais quanto esteticamente ag
 - **Banco de Dados:** Modelagem de Banco de dados e introdução no SQL , Power BI Básico;
 - **Design de Interfaces de Usuário:** Modelagem e Desenvolvimento de  Interfaces de Sistemas com Critérios Ergonômicos, UX Design , UI Design,IA (Arquitetura da Informação), IxD (Design de Interação) e Figma;<br>
 <br>
-**Projetos** 📋 <br>
-[Portfólio UI/UX Design](https://www.canva.com/design/DAF7Spxa34w/QDCv2qFQeCbYkTQPvSIbEw/view?utm_content=DAF7Spxa34w&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br>
+
+**Projetos** 📋<br>
 <br>
+- [Portfólio UI/UX Design](https://www.canva.com/design/DAF7Spxa34w/QDCv2qFQeCbYkTQPvSIbEw/view?utm_content=DAF7Spxa34w&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br>
+<br>
+
 **Experiência Profissional** 📑 <br>
+<br>
 Faculdade Cesusc - Florianópolis - SC
 Estagiária  
 Agosto de 2023 - Presente<br>
 - Organização e digitalização de documentações física estudantil no sistema acadêmico.
 - Levantamento de documentação faltantes de alunos, de acordo com as Leis do MEC e requisitos da instituição.<br>
 <br>
-**Meus objetivos 🐾 **<br>
+
+**Meus objetivos**🐾<br>
 <br>
 1. Estagiar na área<br>
 2. Me formar<br>
 3. Fazer alguma especialização<br>
 4. Inglês
 <br>
-<br>
+
 **Informações de Contato** 📨 <br>
 <br>
 - Email: erikachermack1995@gmail.com<br>
 - Telefone:(48) 9 9175-0346<br>
 - Florianópolis, SC<br>
-- Linkedin: www.linkedin.com/in/erika-chermack
+- [Linkedin](www.linkedin.com/in/erika-chermack)

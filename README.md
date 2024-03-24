@@ -12,34 +12,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*Olááááá Muuuundo!*👋<br>
+*Olááááá Muuuundo!*<br>
 <br>
-*Sobre mim*<br>
-Eu me chamo Erika :blush:<br>
+**Sobre mim**😊 <br>
+<br>
+Eu me chamo Erika! <br>
 Sou uma estudante de Análise e Desenvolvimento de Sistemas (ADS) com interesse em áreas como Banco de Dados e Design de Interface de Usuário (UI Design).<br>
-Gosto de pensar em soluções que sejam tantos funcionais quanto esteticamnete agradáveis...:sparkles:<br>
+Gosto de pensar em soluções que sejam tanto funcionais quanto esteticamente agradáveis... ✨ <br>
 <br>
-*Habilidades(básicas)*<br>
+**Habilidades(básicas)** 📈 <br>
+<br>
 - **Banco de Dados:** Modelagem de Banco de dados e introdução no SQL , Power BI Básico;
 - **Design de Interfaces de Usuário:** Modelagem e Desenvolvimento de  Interfaces de Sistemas com Critérios Ergonômicos, UX Design , UI Design,IA (Arquitetura da Informação), IxD (Design de Interação) e Figma;<br>
 <br>
-*Projetos*<br>
-[Porfólio UI/UX Design](https://www.canva.com/design/DAF7Spxa34w/QDCv2qFQeCbYkTQPvSIbEw/view?utm_content=DAF7Spxa34w&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br>
+**Projetos** 📋 <br>
+[Portfólio UI/UX Design](https://www.canva.com/design/DAF7Spxa34w/QDCv2qFQeCbYkTQPvSIbEw/view?utm_content=DAF7Spxa34w&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br>
 <br>
-*Experiência Profissional*<br>
+**Experiência Profissional** 📑 <br>
 Faculdade Cesusc - Florianópolis - SC
-Estafiária  
+Estagiária  
 Agosto de 2023 - Presente<br>
 - Organização e digitalização de documentações física estudantil no sistema acadêmico.
 - Levantamento de documentação faltantes de alunos, de acordo com as Leis do MEC e requisitos da instituição.<br>
 <br>
-*Meus objetivos :feet:*
-1. Me Formar;
-2. Estagiar na área;
-3. Fazer alguma especialização;
-4. Inglês.<br>
+**Meus objetivos 🐾 **<br>
 <br>
-*Informações de Contato*<br>
+1. Me formar
+2. Estagiar na área
+3. Fazer alguma especialização
+4. Inglês
+<br>
+<br>
+**Informações de Contato** 📨 <br>
 - Email: erikachermack1995@gmail.com
 - Telefone:(48) 9 9175-0346
 - Florianópolis, SC

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ErikaChermack/ErikaChermack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*Olááááá Muuuundo!*<br>
+*Olááááá Muuuundo!*👋<br>
 <br>
 *Sobre mim*<br>
 Eu me chamo Erika :blush:<br>

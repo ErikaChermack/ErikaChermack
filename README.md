@@ -45,7 +45,7 @@ Gosto de pensar em soluções que sejam tanto funcionais quanto esteticamente ag
 
 **Descrição:** Protótipo de uma app de cafeteria self-service, sem entrega, pagamento realizado pelo app e a busca pelo pedido é por parte do cliente.
 
--[Cafeteria]([https://www.figma.com/proto/VpVspBU7S9yQMxFUOr1f7p/Cafeteria?page-id=0%3A1&type=design&node-id=749-2416&viewport=798%2C79%2C0.37&t=ZzrucWnDiYEWS8hA-1&scaling=scale-down&starting-point-node-id=20%3A5&mode=design](https://www.figma.com/proto/VpVspBU7S9yQMxFUOr1f7p/Cafeteria?page-id=0%3A1&type=design&node-id=749-2416&viewport=798%2C79%2C0.37&t=ZzrucWnDiYEWS8hA-1&scaling=scale-down&starting-point-node-id=20%3A5&mode=design))
+-[Cafeteria]([https://www.figma.com/proto/VpVspBU7S9yQMxFUOr1f7p/Cafeteria?page-id=0%3A1&type=design&node-id=749-2416&viewport=798%2C79%2C0.37&t=ZzrucWnDiYEWS8hA-1&scaling=scale-down&starting-point-node-id=20%3A5&mode=design](https://www.figma.com/proto/VpVspBU7S9yQMxFUOr1f7p/Cafeteria?page-id=0%3A1&type=design&node-id=749-2416&viewport=798%2C79%2C0.37&t=ZzrucWnDiYEWS8hA-1&scaling=scale-down&starting-point-node-id=20%3A5&mode=design)
 
 
 **Experiência Profissional** 📑 <br>

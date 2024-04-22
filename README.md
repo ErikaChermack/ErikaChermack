@@ -35,18 +35,20 @@ Gosto de pensar em soluções que sejam tanto funcionais quanto esteticamente ag
 
 **Projetos em Figma** 🌃 <br>
 
-# 1. Pet's Care
+- Pet's Care
 
-**Descrição:** Protótipo de app para armazenar toda a ficha e histórico dos pets, assim como suas consultas e estadias em hotéis.
+**Proposta:** Protótipo de app para armazenar toda a ficha e histórico dos pets, assim como suas consultas e estadias em hotéis.
 
--[Pet's Care](https://www.figma.com/proto/IPeQJgMfdJT5c8UpKvRpY1/Pet's-Care?type=design&node-id=347-1024&t=ZI6hGZP90fHhKNdf-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=347%3A1024&mode=design)
+[Link Pet's Care](https://www.figma.com/proto/IPeQJgMfdJT5c8UpKvRpY1/Pet's-Care?type=design&node-id=347-1024&t=ZI6hGZP90fHhKNdf-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=347%3A1024&mode=design)
+<br>
+<br>
+- Cafeteria
+  
+**Proposta:** Protótipo de uma app de cafeteria self-service, sem entrega com pagamento realizado pelo app e a busca pelo pedido é por parte do cliente.
 
-## 2. Cafeteria
-
-**Descrição:** Protótipo de uma app de cafeteria self-service, sem entrega, pagamento realizado pelo app e a busca pelo pedido é por parte do cliente.
-
--[Cafeteria](https://www.figma.com/proto/VpVspBU7S9yQMxFUOr1f7p/Cafeteria?node-id=20-5&starting-point-node-id=20%3A5&mode=design&t=f2mLWdqzahQjyWdu-1)
-
+[Link Cafeteria](https://www.figma.com/proto/VpVspBU7S9yQMxFUOr1f7p/Cafeteria?node-id=20-5&starting-point-node-id=20%3A5&mode=design&t=f2mLWdqzahQjyWdu-1)
+<br>
+<br>
 
 **Experiência Profissional** 📑 <br>
 <br>

@@ -33,6 +33,21 @@ Gosto de pensar em soluções que sejam tanto funcionais quanto esteticamente ag
 - [Portfólio UI/UX Design](https://www.canva.com/design/DAF7Spxa34w/QDCv2qFQeCbYkTQPvSIbEw/view?utm_content=DAF7Spxa34w&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br>
 <br>
 
+**Projetos em Figma** 🌃 <br>
+
+# 1. Pet's Care
+
+**Descrição:** Protótipo de app para armazenar toda a ficha e histórico dos pets, assim como suas consultas e estadias em hotéis.
+
+-[Pet's Care](https://www.figma.com/proto/IPeQJgMfdJT5c8UpKvRpY1/Pet's-Care?type=design&node-id=347-1024&t=ZI6hGZP90fHhKNdf-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=347%3A1024&mode=design)
+
+## 2. Cafeteria
+
+**Descrição:** Protótipo de uma app de cafeteria self-service, sem entrega, pagamento realizado pelo app e a busca pelo pedido é por parte do cliente.
+
+-[Cafeteria]([https://www.figma.com/proto/VpVspBU7S9yQMxFUOr1f7p/Cafeteria?page-id=0%3A1&type=design&node-id=749-2416&viewport=798%2C79%2C0.37&t=ZzrucWnDiYEWS8hA-1&scaling=scale-down&starting-point-node-id=20%3A5&mode=design](https://www.figma.com/proto/VpVspBU7S9yQMxFUOr1f7p/Cafeteria?page-id=0%3A1&type=design&node-id=749-2416&viewport=798%2C79%2C0.37&t=ZzrucWnDiYEWS8hA-1&scaling=scale-down&starting-point-node-id=20%3A5&mode=design))
+
+
 **Experiência Profissional** 📑 <br>
 <br>
 Faculdade Cesusc - Florianópolis - SC

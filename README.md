@@ -32,22 +32,6 @@ Gosto de pensar em soluções que sejam tanto funcionais quanto esteticamente ag
 <br>
 - [Portfólio UI/UX Design](https://www.canva.com/design/DAF7Spxa34w/QDCv2qFQeCbYkTQPvSIbEw/view?utm_content=DAF7Spxa34w&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br>
 <br>
-
-**Projetos em Figma** 🌃 <br>
-
-- Pet's Care
-
-**Proposta:** Protótipo de app para armazenar toda a ficha e histórico dos pets, assim como suas consultas e estadias em hotéis.
-
-[Link Pet's Care](https://www.figma.com/proto/IPeQJgMfdJT5c8UpKvRpY1/Pet's-Care?type=design&node-id=347-1024&t=ZI6hGZP90fHhKNdf-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=347%3A1024&mode=design)
-<br>
-<br>
-- Cafeteria
-  
-**Proposta:** Protótipo de uma app de cafeteria self-service, sem entrega com pagamento realizado pelo app e a busca pelo pedido é por parte do cliente.
-
-[Link Cafeteria](https://www.figma.com/proto/VpVspBU7S9yQMxFUOr1f7p/Cafeteria?node-id=20-5&starting-point-node-id=20%3A5&mode=design&t=f2mLWdqzahQjyWdu-1)
-<br>
 <br>
 
 **Experiência Profissional** 📑 <br>

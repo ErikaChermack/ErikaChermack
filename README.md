@@ -30,7 +30,7 @@ Gosto de pensar em soluções que sejam tanto funcionais quanto esteticamente ag
 
 **Projetos** 📋<br>
 <br>
-- [Portfólio UI/UX Design]([https://www.canva.com/design/DAF7Spxa34w/QDCv2qFQeCbYkTQPvSIbEw/view?utm_content=DAF7Spxa34w&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF7Spxa34w/QDCv2qFQeCbYkTQPvSIbEw/view?utm_content=DAF7Spxa34w&utm_campaign=designshare&utm_medium=link&utm_source=editor))<br>
+- [Portfólio UI/UX Design](https://www.canva.com/design/DAF7Spxa34w/QDCv2qFQeCbYkTQPvSIbEw/view?utm_content=DAF7Spxa34w&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br>
 <br>
 <br>
 
